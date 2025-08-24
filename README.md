@@ -89,5 +89,4 @@ The repository includes screenshots that illustrate various features and modules
 ##### Houssam Received Mailbox
 ![Houssam Received Mailbox](https://github.com/Alazaabat/BankSystem/assets/129705686/284cffd2-1ea5-4654-97b2-a9c5d01ae1c2)
 
-## Contributions
-We welcome contributions that aim to enhance the system's functionalities or introduce new features. Please fork the repository and follow the provided guidelines for submitting pull requests.
+
